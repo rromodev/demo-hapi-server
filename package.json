@@ -1,0 +1,15 @@
+{
+  "name": "golang-bootcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "phin": "^3.6.0"
+  },
+  "devDependencies": {
+    "@hapi/code": "^8.0.3",
+    "@hapi/lab": "^24.3.2",
+    "standard": "^16.0.3"
+  }
+}
